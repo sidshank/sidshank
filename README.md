@@ -1,8 +1,8 @@
 ### Hey there 👋 I'm Sid
 
-I'm an Engineering Manager at GitHub working on the CodeQL team supporting Dynamically Typed Languages (Javascript, Typescript, Python, Ruby). CodeQL is the engine that powers Code Scanning, and is a part of the GitHub Advanced Security organization.
+I'm an Engineering Manager at GitHub currently supporting the [Code Scanning](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning/about-code-scanning) Security Experiences team.
 
-I am passionate about building high-performing teams with high psychological safety 💪🧠. I started my career in software engineering working at MathWorks building Stateflow, a Model Based Design tool for modelling, simulation and generating code for State Machines. I moved to Canada 🇨🇦🍁 in 2018 to increase my exposure to distributed systems, and have worked at startups in the FinTech and EdTech spaces before coming to GitHub.
+I am passionate about building high-performing teams with high psychological safety 💪🧠. I started my career in software engineering at [MathWorks](https://mathworks.com/) building [Stateflow](https://www.mathworks.com/products/stateflow.html), a Model Based Design tool for modelling, simulation and generating code for State Machines. I moved from the US 🇺🇸 to Canada 🇨🇦🍁 in 2018 to increase my exposure to distributed systems, and have worked at startups in the FinTech and EdTech spaces before coming to GitHub.
 
 In my career, I've worked predominantly with C++, JavaScript, Java and Python, but I have a special place in my heart for Scala, Rust and MATLAB. ❤️
 
